@@ -1,4 +1,4 @@
-# TP 4 — Hibernate 
+# TP 4 par Rim EL ABBASSI — Hibernate 
 Ce TP met en place la persistance avec Hibernate 5/JPA et MySQL 8, autour de deux entités liées : Salle et Machine.
 
 ## Captures 
